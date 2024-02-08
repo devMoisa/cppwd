@@ -1,0 +1,19 @@
+{
+  "name": "cppwd",
+  "version": "1.0.0",
+  "description": "Copy the current working directory to the clipboard.",
+  "main": "index.js",
+  "bin": {
+    "cppwd": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "clipboard",
+    "directory",
+    "utility"
+  ],
+  "author": "Moisés Vilas Boas",
+  "license": "ISC"
+}
